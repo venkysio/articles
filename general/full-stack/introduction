@@ -1,1 +1,21 @@
+Full stack developer:
+This video describes about full stack developers. Full stack developers can develop both client and server applications. The one who can code the UI, business logic and database SQL is called a full stack developer. 
+There are several layers in typical software architecture, Presentation layer
+Business logic layer
+Data access layer
+Data store layer
+Presentation layer: This is the 1st tier in software architecture and developed by front end developers, the layer at which user interact with the application and the final data will be visible to the user at this interface. It acts as an interface between the user and the application. 
+Business logic layer: This is the 2nd tier in the software architecture and developed by applications developers, it acts as an intermediate between the presentation and data access layer.
+Data access layer: This is the 2nd tier in the software architecture and developed by applications developers, it provides simplified access to data stored in persistent storage. 
+Data store layer: This is the 3rd tier in the software architecture and developed by data base SQL developers, the data base layer is where the system stores all the data.
+
+Client applications and server applications:
+Web application development includes a client application and a server application. A client application which initiates the request and consumes the response. A server application which performs the operations.
+How to think like full stack developers:
+•	End-to-end visualization 
+•	Scenario builder 
+•	Problem solving skills 
+•	Multiple programming languages skills 
+•	Continues knowledge upgrade 
+•	Practice projects developments. 
 
