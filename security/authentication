@@ -1,0 +1,14 @@
+This video describes all the aspects of authentication.
+Authentication is the process or action of verifying the identity of a user or process.Unlike conventional way of unlocking the physical assets, we have evolved to the mental form of unlocking/authenticating. Instead of what you have as a physical key, what we know has become the key to your asset now.
+However when we are using multiple applications, it will be difficult to remember all the passwords and also challenging to safeguard your password. Password manager comes into picture where we have a single password to access all our passwords.This again is not safe as this leads attackers to access your password from social engineering or through brute force.
+Hence we need one more level of authentication along with just a password, like something unique to a person. This led to authenticating using biologically unique factors like eye retina, finger printing etc.,.This type of authentication is called as two factor authentication where the first factor could be what you know(user credentials) and second factor could be what you are(Biometrics).
+This video also describes the process, different types and evolution of authentication over the years . For better security it is highly recommended to use two factor authentication or multi factor authentication.
+Following are the various types of authentication
+Basic/Forms/NTLM
+Certificate
+Token
+PKI (Public key infrastructure)
+OTP,Push
+
+All these kinds of authentication can be used along with your biometrics to secure your application.This video also briefly describes the various types of attacks on these authentication which will be explained in detail in the upcoming videos.
+Thank you for reading. Visit vsdevelopers.io for more information
